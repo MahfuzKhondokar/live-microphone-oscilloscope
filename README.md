@@ -31,7 +31,7 @@ python main.py
 
 ## Screenshot
 
-![Demo](screenshots/demo.png)
+![Demo](screenshots/image.png)
 
 ## How It Works
 
